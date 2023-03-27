@@ -1,0 +1,80 @@
+[
+  {
+    "name": ["Pantaloons Baby", false],
+    "quantity": 2458,
+    "date": "12.Jan.2021",
+    "MRP": 75.5
+  },
+  {
+    "name": ["Venus ", true],
+    "quantity": 1485,
+    "date": "21.Feb.2021",
+    "MRP": 35.4
+  },
+  {
+    "name": ["Venus DS", true],
+    "quantity": 1024,
+    "date": "13.Mar.2021",
+    "MRP": 25
+  },
+  {
+    "name": ["Venus t", true],
+    "quantity": 858,
+    "date": "24.Jan.2021",
+    "MRP": 100
+  },
+  {
+    "name": ["Pantaloons Baby", false],
+    "quantity": 258,
+    "date": "Oct 24, 2022",
+    "MRP": 75.5
+  },
+  {
+    "name": ["Pantaloons Baby", false],
+    "quantity": 258,
+    "date": "Oct 24, 2022",
+    "MRP": 75.5
+  },
+  {
+    "name": ["Pantaloons Baby", false],
+    "quantity": 258,
+    "date": "12.Jan.2021",
+    "MRP": 75.5
+  },
+  {
+    "name": ["Venus DB PRO", false],
+    "quantity": 858,
+    "date": "21.Feb.2021",
+    "MRP": 35.4
+  },
+  {
+    "name": ["Venus DS", false],
+    "quantity": 1024,
+    "date": "13.Mar.2021",
+    "MRP": 25
+  },
+  {
+    "name": ["Venus Pants", false],
+    "quantity": 258,
+    "date": "24.Jan.2021",
+    "MRP": 100
+  },
+  {
+    "name": ["Pantaloons Baby", false],
+    "quantity": 1024,
+    "date": "Oct 24, 2022",
+    "MRP": 75.5
+  },
+  {
+    "name": ["Pantaloons Baby", false],
+    "quantity": 258,
+    "date": "Oct 24, 2022",
+    "MRP": 75.5
+  },
+  {
+    "name": ["Pantaloons Baby", false],
+    "quantity": 258,
+    "date": "Oct 24, 2022",
+    "MRP": 75.5
+  }
+]
